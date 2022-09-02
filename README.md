@@ -14,7 +14,7 @@
  <br>
 
 <!-- TODO: Make technologies links takes you to repositories -->
- <h3>Main technologies</h3>
+ <h3>Principais Tecnologias</h3>
  <div style="display: inline_block">
   
    <img align="center" alt="Lari-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
