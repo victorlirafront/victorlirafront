@@ -14,7 +14,8 @@
   * 👯 I'm looking to collaborate on open-source JavaScript projects;
   * 💬 You can ask me about JavaScript and Front-End, and I will gladly do my best to answer your doubts;
   * 📫 You can reach me through: victorliracorporativo@gmail.com.
-    
+  * 🔭 Checkout my blog: [victorlirablog.com](https://www.victorlirablog.com/)
+     
 </div>
 <br/>
 <div align="start" style="margin-bottom: 20px;">
