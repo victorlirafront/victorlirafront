@@ -8,12 +8,9 @@
 <br/>
 <div style="margin-bottom: 20px;">
   
-  * 🔭 I'm currently working as a Front-End developer working primarily with React and NextJS.
-  * 🧑‍💼 I've been working as a developer for 2 years by now developing front-ends
   * 👯 I'm looking to collaborate on open-source JavaScript projects;
   * 💬 You can ask me about JavaScript and Front-End, and I will gladly do my best to answer your doubts;
   * 📫 You can reach me through: victorliracorporativo@gmail.com.
-  * 🔭 Checkout my blog: [victorlirablog.com](https://www.victorlirablog.com/)
      
 </div>
 <br/>
