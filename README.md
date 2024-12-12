@@ -6,7 +6,7 @@
   <a href = "mailto:victorliracorporativo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br/>
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 20px;" >
   
   * 👯 I'm looking to collaborate on open-source JavaScript projects;
   * 💬 You can ask me about JavaScript and Front-End, and I will gladly do my best to answer your doubts;
