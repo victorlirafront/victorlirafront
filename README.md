@@ -1,6 +1,8 @@
 
 :mailbox: Reach me out!
+
 <br/>
+
 <div align="start" style="margin-bottom: 22px;" > 
   <a href="https://www.linkedin.com/in/victor-lira-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href = "mailto:victorliracorporativo@gmail.com">
