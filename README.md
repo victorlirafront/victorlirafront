@@ -35,6 +35,11 @@
     <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 <br/>
+<div>
+   <p>Mobile</p>
+    <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+<br/>
 <br/>
 <div align="start" style="margin-bottom: 20px;">
   
