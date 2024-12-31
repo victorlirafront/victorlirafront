@@ -32,7 +32,7 @@
 </div>
 <br/>
 <div>
-    <p>Back-end</p>
+    <p>Back-end ( Learning ) </p>
     <img align="center" alt="Victor-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
     <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
