@@ -11,7 +11,6 @@
 </div>
 <br/>
 
-
 <div style="margin-bottom: 20px;" >
   
   * 👯 I'm looking to collaborate on open-source JavaScript projects;
