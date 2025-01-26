@@ -34,6 +34,7 @@
     <p>Back-end ( Learning ) </p>
 <!--     <img align="center" alt="Victor-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"> -->
     <img align="center" alt="Victor-Ts" height="60" width="60" src="https://camo.githubusercontent.com/4a45d40b5485f11b1bb8299332db2e600eedb40c9d64ebe267bfd92239943ad5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f676f2f676f2d6f726967696e616c2d776f72646d61726b2e737667">
+      <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
      <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
     <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
