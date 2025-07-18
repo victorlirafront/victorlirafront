@@ -1,6 +1,6 @@
 # Victor Lira
 
-<div style="margin-bottom: 20px;" >
+<div style="margin-bottom: 20px; " >
   
   * 👯 I'm looking to collaborate on open-source JavaScript projects;
   * 💬 You can ask me about JavaScript and Front-End, and I will gladly do my best to answer your doubts;
