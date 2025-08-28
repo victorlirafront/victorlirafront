@@ -3,7 +3,7 @@
 
 ## My Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,java,spring,nodejs,nestjs,react,vuejs,angular,next,aws,postgres,redis,mongo,docker&theme=dark" alt="Java, Spring, Kotlin, GO, Postgres, MySql, MongoDB, Redis, NodeJs, Express, React, NextJs, TailwindCSS">
+  <img src="https://skillicons.dev/icons?i=typescript,java,spring,nodejs,nestjs,react,vuejs,angular,next,aws,postgres,mysql,redis,docker&theme=dark" alt="Java, Spring, Kotlin, GO, Postgres, MySql, MongoDB, Redis, NodeJs, Express, React, NextJs, TailwindCSS">
 </p>
 
 
