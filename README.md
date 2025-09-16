@@ -9,5 +9,5 @@
 ## My stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victorlirafront&theme=discord_old_blurple&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d111700" alt="Github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlirafront&layout=compact&theme=discord_old_blurple&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlirafront&layout=compact&theme=discord_old_blurple&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs"> 
 </div> 
