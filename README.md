@@ -1,5 +1,5 @@
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/victor-lira-front-end/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/victor-lira-front-end/) 
 [![Gmail Badge](https://img.shields.io/badge/-victorliracorporativo@gmail.com-ea4336?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorliracorporativo@gmail.com)](mailto:victorliracorporativo@gmail.com)
 
 ## My Stack
