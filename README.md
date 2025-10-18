@@ -4,7 +4,7 @@
 
 ## My Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,angular,nodejs,nestjs,next,java,spring,aws,postgres,mysql,redis,docker&theme=dark" alt="Java, Spring, Kotlin, GO, Postgres, MySql, MongoDB, Redis, NodeJs, Express, React, NextJs, TailwindCSS">
+  <img src="https://skillicons.dev/icons?i=typescript,react,angular,nodejs,nestjs,next,java,spring,postgres,mysql,redis,docker&theme=dark" alt="Java, Spring, Kotlin, GO, Postgres, MySql, MongoDB, Redis, NodeJs, Express, React, NextJs, TailwindCSS">
 </p>
 
 ## My stats
