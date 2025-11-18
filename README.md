@@ -4,7 +4,7 @@
 ## My Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,react,next,nodejs,nestjs,java,spring,postgres,mysql,docker">
-</p>
+</p> 
 
 ## My stats
 <div align="center">
